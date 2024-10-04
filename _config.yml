@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BrianCho.jpg" #"profile.png"
   name             : "Brian Cho"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student University of Utah Robotics Center"
