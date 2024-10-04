@@ -12,12 +12,12 @@ Prior to joining the U, I completed my master's degree in electrical and electro
 
 On-going Projects
 ======
-1. Surgical Sensing Automation 
+## Surgical Sensing Automation 
 
 This project proposes an automated sensing method for accurately mapping subsurface anatomy in robot-assisted surgery. It employs Bayesian Hilbert maps for occupancy mapping and A* graph search for planning efficient sensing trajectories (published in ICRA ‘24 paper) / Bayesian optimization for planning efficient sensing poses (published in ISMR ‘21 paper). 
 
 
-1. Deep Learning-based Kinematic Modeling of Tendon-driven Robots 
+## Deep Learning-based Kinematic Modeling of Tendon-driven Robots 
 
 This project addresses the challenge of modeling the shape of tendon-driven continuum robots by proposing a novel deep decoder neural network that accounts for hysteresis. The proposed method significantly improves shape prediction accuracy by leveraging point clouds and conditioning the model on both current and prior configurations. Experimental results on a physical robot demonstrate the method's superior performance compared to an existing physics-based model and a learning-based model that does not account for hysteresis.
 
