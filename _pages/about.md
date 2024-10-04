@@ -12,6 +12,7 @@ Prior to joining the U, I completed my master's degree in electrical and electro
 
 On-going Projects
 ======
+
 ## Surgical Sensing Automation 
 
 This project proposes an automated sensing method for accurately mapping subsurface anatomy in robot-assisted surgery. It employs Bayesian Hilbert maps for occupancy mapping and A* graph search for planning efficient sensing trajectories (published in ICRA ‘24 paper) / Bayesian optimization for planning efficient sensing poses (published in ISMR ‘21 paper). 
